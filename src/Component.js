@@ -1,5 +1,5 @@
 function Component(){
-  return(<h1>jede to</h1>);
+  return(<h1>jede to, nevim</h1>);
 }
 
 export default Component
